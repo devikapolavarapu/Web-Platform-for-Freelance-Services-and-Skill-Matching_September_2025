@@ -1,0 +1,11 @@
+node_modules/
+client/node_modules/
+.env
+.env.*
+!.env.example
+uploads/
+dist/
+client/dist/
+build/
+.npm
+*.log
